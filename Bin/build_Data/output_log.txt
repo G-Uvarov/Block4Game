@@ -1,0 +1,189 @@
+Mono path[0] = 'D:/Shooter Proj/ThreeInARow/Bin/build_Data/Managed'
+Mono path[1] = 'D:/Shooter Proj/ThreeInARow/Bin/build_Data/Mono'
+Mono config path = 'D:/Shooter Proj/ThreeInARow/Bin/build_Data/Mono/etc'
+PlayerConnection initialized from D:/Shooter Proj/ThreeInARow/Bin/build_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55385
+Multi-casting "[IP] 192.168.0.70 [Port] 55385 [Flags] 2 [Guid] 3596182383 [EditorId] 2508683880 [Version] 1048832 [Id] WindowsPlayer(Дмитрий-ПК) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55385]
+PlayerConnection already initialized - listening to [0.0.0.0:55385]
+Player data archive not found at `D:/Shooter Proj/ThreeInARow/Bin/build_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.14.10.2567]
+    Renderer: Intel(R) Graphics Media Accelerator 3150
+    Vendor:   Intel
+    VRAM:     64 MB (via DXGI)
+    Caps:     Shader=20 DepthRT=0 NativeDepth=0 NativeShadow=0 DF16=0 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=0 BC5=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.133 seconds
+Platform assembly: D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Shooter Proj\ThreeInARow\Bin\build_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredShading' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredShading' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredReflections' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DeferredReflections' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-DepthNormalsTexture' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-MotionVectors' - Setting to default shader.
+WARNING: Shader Unsupported: 'Legacy Shaders/Diffuse' - Pass 'PREPASS' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlur' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeCopy' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlend' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecode' - Pass 'YCBCR_TO_RGB1' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VideoDecode' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Internal-CombineDepthNormals' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Internal-CombineDepthNormals' - Setting to default shader.
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 8.211514 ms
+Destroyed 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Destroyed 5
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogFormat(String, Object[])
+Delete2Group:OnClick(FieldCell) (at D:\Shooter Proj\ThreeInARow\Assets\Block Game Logic\Delete2Group.cs:20)
+UnityEngine.Events.InvokableCall`1:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:189)
+UnityEngine.Events.InvokableCallList:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:637)
+UnityEngine.Events.UnityEventBase:Invoke(Object[]) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent.cs:773)
+UnityEngine.Events.UnityEvent`1:Invoke(T0) (at C:\buildslave\unity\build\Runtime\Export\UnityEvent_1.cs:53)
+FieldClickHandler:Update() (at D:\Shooter Proj\ThreeInARow\Assets\Field Logic\FieldClickHandler.cs:20)
+ 
+(Filename: D:/Shooter Proj/ThreeInARow/Assets/Block Game Logic/Delete2Group.cs Line: 20)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 76c -> priority: 1 
+  Thread -> id: 22c4 -> priority: 1 
